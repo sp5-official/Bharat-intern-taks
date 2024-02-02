@@ -1,3 +1,4 @@
+/* .................Body Style .................. */
 *{
     margin: 0;
     padding: 0;
@@ -138,10 +139,9 @@ nav{
     gap: 2rem;
 }
 
-/*........................End Nav Bar..................... */
 
+/*........................ Header Section Style ..................... */
 
-/*........................Start Header Section..................... */
 header{
     padding-top: 14rem;
 }
@@ -174,8 +174,10 @@ header{
     justify-content: center;
     margin: 1rem auto;
 }
-/*........................End Header Section..................... */
-/* .............Start About Section ............*/
+
+
+/* .................... About Section Style ....................*/
+
 .about-container{
     display: grid;
     grid-template-columns: 38% auto;
@@ -201,9 +203,10 @@ header{
 .edu-box img{
     margin: auto;
 }
-/* .............End About Section ............*/
 
-/* .............Start Experience Section ............*/
+
+/* ............. Experience Section Style ............*/
+
 section{
     position: relative;
 }
@@ -241,9 +244,9 @@ section{
     gap: 20px;
 }
 
-/* .............End Experience Section ............*/
 
-/* .............Start Project Section ............*/
+/* ............. Project Section Style ............*/
+
 .project-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -260,9 +263,10 @@ section{
     border-radius: 30px;
     margin-bottom: 1rem;
 }
-/* .............End Project Section ............*/
 
-/* .............Strat Contacts Section ............*/
+
+/* ............. Contacts Section Style ............*/
+
 .contact-container{
     max-width: 30rem;
     border: 2px solid var(--color-dark-variant);
@@ -277,9 +281,10 @@ section{
     align-items: center;
     gap: .5rem;
 }
-/* .............End Contacts Section ............*/
 
-/* Footer */
+
+/*................. Footer Section Style ................. */
+
 footer{
     margin-top: 9 rem;
     padding: 30px;
