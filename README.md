@@ -6,6 +6,6 @@ This is repository for Bharat Intern Tasks which is given to me as my internship
 
 2.To Create Weather Web application using HTML, CSS & JavaScript & APIs is used to display weaather info.
 
-3.To create NETFLIX Home Page using HTML, CSS & JavaScript (Basically i tis clone website).
+3.To create NETFLIX Home Page using HTML, CSS & JavaScript (Basically it is a clone website).
 
 Out of this 3 tasks I have to complete any 2 tasks to get my Internship Certificate
